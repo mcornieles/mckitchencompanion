@@ -162,3 +162,13 @@ document.addEventListener('DOMContentLoaded', () => {
     instructionBox.classList.toggle('hidden');
   });
 });
+
+const zoomBtn = document.getElementById('zoomRecipeBtn');
+const tableScroll = document.getElementById('tableScroll');
+
+zoomBtn.addEventListener('click', () => {
+  tableScroll.classList.toggle('zoomed');
+  zoomBtn.textContent = tableScroll.classList.contains('zoomed')
+    ? 'Normal View'
+    : 'Zoom in Recipe';
+});
