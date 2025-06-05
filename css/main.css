@@ -45,7 +45,7 @@ body {
 
     @media (max-width: 600px) {
       body {
-        background-image: url('../images/PortraitBG.png');
+        background-image: url('../images/portraitBG.png');
       }
 
       h1 {
