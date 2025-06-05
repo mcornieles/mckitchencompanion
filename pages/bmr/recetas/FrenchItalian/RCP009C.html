@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Parmesan Peppercorn French Bread – 1 lb</title>
+    <link rel="stylesheet" href="../assets/styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Parmesan Peppercorn French Bread – 1 lb</h1>
+        <div class="card">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Ingredient</th>
+                        <th>Detail</th>
+                        <th>Amount</th>
+                        <th>Unit</th>
+                        <th>Grams</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    
+        <tr>
+            <td>water</td>
+            <td>Room Temperature</td>
+            <td>0.75</td>
+            <td>cup</td>
+            <td>177.75</td>
+        </tr>
+        <tr>
+            <td>Olive oil</td>
+            <td></td>
+            <td>2</td>
+            <td>tb</td>
+            <td>27.2</td>
+        </tr>
+        <tr>
+            <td>kosher salt</td>
+            <td></td>
+            <td>0.75</td>
+            <td>ts</td>
+            <td>4.275</td>
+        </tr>
+        <tr>
+            <td>flour unbleached</td>
+            <td>Unbleached, All-purpose</td>
+            <td>2.25</td>
+            <td>cup</td>
+            <td>270</td>
+        </tr>
+        <tr>
+            <td>Parmesan Cheese</td>
+            <td>Grated</td>
+            <td>0.33</td>
+            <td>cup</td>
+            <td>33</td>
+        </tr>
+        <tr>
+            <td>Black pepper</td>
+            <td>Freshly ground</td>
+            <td>0.25</td>
+            <td>ts</td>
+            <td>0.5</td>
+        </tr>
+        <tr>
+            <td>yeast</td>
+            <td>Active dry, Instant or Bread machine</td>
+            <td>1</td>
+            <td>ts</td>
+            <td>3.1</td>
+        </tr>
+                </tbody>
+            </table>
+            
+    <button id="toggleInstructions">Show/Hide Instructions</button>
+    <div id="instructionBox" style="display: none; margin-top: 1rem;">
+        <p>1. Put all ingredients, in the order listed, into bread pan fitted with kneading paddle. Secure bread pan into the Cuisinart® Bread Maker.<br><br>2. Press the PROG button to select the French program. Select desired Crust Color and Loaf Size. Press START/STOP to begin the bread-making process.<br><br>3. If desired, when paddle signal sounds, press START/STOP to pause the unit; remove dough and kneading paddle, reshape dough and replace<br>in bread pan. Press START/STOP to continue.<br><br>4. When the cycle is complete, remove the bread pan from the machine and transfer bread to a wire rack to cool completely before slicing.</p>
+    </div>
+        </div>
+    </div>
+    <script>
+        const toggleBtn = document.getElementById('toggleInstructions');
+        const instructionBox = document.getElementById('instructionBox');
+        if (toggleBtn && instructionBox) {
+            toggleBtn.addEventListener('click', () => {
+                instructionBox.style.display = instructionBox.style.display === 'none' ? 'block' : 'none';
+            });
+        }
+    </script>
+</body>
+</html>

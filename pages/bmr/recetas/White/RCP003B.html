@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Cinammon Swirl Bread – 1.5 lb</title>
+    <link rel="stylesheet" href="../assets/styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Cinammon Swirl Bread – 1.5 lb</h1>
+        <div class="card">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Ingredient</th>
+                        <th>Detail</th>
+                        <th>Amount</th>
+                        <th>Unit</th>
+                        <th>Grams</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    
+        <tr>
+            <td>whole milk</td>
+            <td>Room Temperature</td>
+            <td>1</td>
+            <td>cup</td>
+            <td>244</td>
+        </tr>
+        <tr>
+            <td>unsalted butter</td>
+            <td>Room Temperature, cut into 1/2 inch pieces</td>
+            <td>2</td>
+            <td>tb</td>
+            <td>28.4</td>
+        </tr>
+        <tr>
+            <td>Egg</td>
+            <td>Large, Room Temperature</td>
+            <td>1</td>
+            <td>u</td>
+            <td>50</td>
+        </tr>
+        <tr>
+            <td>kosher salt</td>
+            <td></td>
+            <td>1</td>
+            <td>ts</td>
+            <td>5.7</td>
+        </tr>
+        <tr>
+            <td>granulated sugar</td>
+            <td></td>
+            <td>1</td>
+            <td>tb</td>
+            <td>12.5</td>
+        </tr>
+        <tr>
+            <td>flour unbleached</td>
+            <td>Unbleached, All-purpose</td>
+            <td>3.5</td>
+            <td>cup</td>
+            <td>420</td>
+        </tr>
+        <tr>
+            <td>yeast</td>
+            <td>Active dry, Instant or Bread machine</td>
+            <td>2</td>
+            <td>ts</td>
+            <td>6.2</td>
+        </tr>
+        <tr>
+            <td>granulated sugar</td>
+            <td></td>
+            <td>0.25</td>
+            <td>cup</td>
+            <td>50</td>
+        </tr>
+        <tr>
+            <td>Ground cinnamon</td>
+            <td></td>
+            <td>2</td>
+            <td>ts</td>
+            <td>5.52</td>
+        </tr>
+        <tr>
+            <td>Raisins</td>
+            <td>Optional</td>
+            <td>1</td>
+            <td>cup</td>
+            <td>145</td>
+        </tr>
+                </tbody>
+            </table>
+            
+    <button id="toggleInstructions">Show/Hide Instructions</button>
+    <div id="instructionBox" style="display: none; margin-top: 1rem;">
+        <p>1.Put all dough ingredients, in the order listed, into bread pan fitted with kneading paddle. Secure the bread pan into the Cuisinart® Bread Maker.<br><br>2. Press the PROG button to select the White program. Select desired Crust Color and Loaf Size. Press START/STOP to begin the bread-making process.<br><br>3. While the dough is mixing and resting, prepare the Cinnamon Swirl: In a small bowl, combine the Cinnamon Swirl ingredients. Reserve.<br><br>4. When paddle signal sounds, pause the unit; remove dough. Place the dough on a floured surface. Roll the dough away from you into a rectangle, about 1/4<br>inch thick and 16 inches in length. Sprinkle the surface with the Cinnamon Swirl mixture. Roll the dough into a tight cylinder from one short side to the other.<br>Tuck the ends underneath the dough and fit back into the bread pan with the kneading paddle removed. Press START/STOP to continue.<br><br>5. When the cycle is complete, remove the bread pan from the machine and transfer bread to a wire rack to cool completely before slicing.</p>
+    </div>
+        </div>
+    </div>
+    <script>
+        const toggleBtn = document.getElementById('toggleInstructions');
+        const instructionBox = document.getElementById('instructionBox');
+        if (toggleBtn && instructionBox) {
+            toggleBtn.addEventListener('click', () => {
+                instructionBox.style.display = instructionBox.style.display === 'none' ? 'block' : 'none';
+            });
+        }
+    </script>
+</body>
+</html>

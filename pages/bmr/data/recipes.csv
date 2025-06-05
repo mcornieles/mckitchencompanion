@@ -1,0 +1,463 @@
+RecipeID,Group,Name,SizeCode,Ingredient,Detail,Amount,Unit,Grams,Instructions
+RCP001A,White,Basic White Bread,A,water,Room Temperature,1.5,cup,355.5,"1- Put all the ingredients in starting always with the liquids.
+2- Press PROG button to select the White program.
+3- Press COLOR button to select Crust color.
+4- Press SIZE button to select desire loaf size.
+5- Press START button to start baking.
+
+NOTE: if you want to delay the process you can press - or + button to delay the process completion."
+RCP001A,White,Basic White Bread,A,unsalted butter,"Room Temperature, cut into 1/2 inch pieces",1,tb,14.2,
+RCP001A,White,Basic White Bread,A,granulated sugar,,1,tb,12.5,
+RCP001A,White,Basic White Bread,A,kosher salt,,1.5,ts,8.55,
+RCP001A,White,Basic White Bread,A,flour unbleached,"Unbleach, All-Purpose",4,cup,480,
+RCP001A,White,Basic White Bread,A,milk nonfat dry,Nonfat dry,0.25,cup,17,
+RCP001A,White,Basic White Bread,A,yeast,"Active dry, Instant or Bread machine",1.5,ts,4.65,
+RCP001B,White,Basic White Bread,B,water,Room Temperature,1.13,cup,267.81,"1- Put all the ingredients in starting always with the liquids.
+2- Press PROG button to select the White program.
+3- Press COLOR button to select Crust color.
+4- Press SIZE button to select desire loaf size.
+5- Press START button to start baking.
+
+NOTE: if you want to delay the process you can press - or + button to delay the process completion."
+RCP001B,White,Basic White Bread,B,unsalted butter,"Room Temperature, cut into 1/2 inch pieces",1,tb,14.2,
+RCP001B,White,Basic White Bread,B,granulated sugar,,2.63,ts,11.025,
+RCP001B,White,Basic White Bread,B,kosher salt,,1.25,ts,7.125,
+RCP001B,White,Basic White Bread,B,flour unbleached,"Unbleach, All-Purpose",3,cup,360,
+RCP001B,White,Basic White Bread,B,milk nonfat dry,Nonfat dry,3,tb,12.9,
+RCP001B,White,Basic White Bread,B,yeast,"Active dry, Instant or Bread machine",1,ts,3.1,
+RCP001C,White,Basic White Bread,C,water,Room Temperature,0.75,cup,177.75,"1- Put all the ingredients in starting always with the liquids.
+2- Press PROG button to select the White program.
+3- Press COLOR button to select Crust color.
+4- Press SIZE button to select desire loaf size.
+5- Press START button to start baking.
+
+NOTE: if you want to delay the process you can press - or + button to delay the process completion."
+RCP001C,White,Basic White Bread,C,unsalted butter,"Room Temperature, cut into 1/2 inch pieces",1,tb,14.2,
+RCP001C,White,Basic White Bread,C,granulated sugar,,1.5,ts,6.3,
+RCP001C,White,Basic White Bread,C,kosher salt,,0.75,ts,4.275,
+RCP001C,White,Basic White Bread,C,flour unbleached,"Unbleach, All-Purpose",2,cup,240,
+RCP001C,White,Basic White Bread,C,milk nonfat dry,Nonfat dry,2,tb,8.6,
+RCP001C,White,Basic White Bread,C,yeast,"Active dry, Instant or Bread machine",0.75,ts,2.325,
+RCP002A,White,Oatmeal Bread,A,whole milk,Room Temperature,1.25,cup,305,"1- Put all the ingredients in starting always with the liquids.
+2- Press PROG button to select the White program.
+3- Press COLOR button to select Crust color.
+4- Press SIZE button to select desire loaf size.
+5- Press START button to start baking.
+
+NOTE: if you want to delay the process you can press - or + button to delay the process completion.
+
+* For a sweeter bread, increase the maple syrup by 1/2 tablespoon, substitute your favorite granola for the oats, and add 1/2 teaspoon ground cinnamon."
+RCP002A,White,Oatmeal Bread,A,unsalted butter,"Room Temperature, cut into 1/2 inch pieces",2.5,tb,35.5,
+RCP002A,White,Oatmeal Bread,A,maple syrup,Or Honey,2,tb,40.2,
+RCP002A,White,Oatmeal Bread,A,kosher salt,,1.25,ts,7.125,
+RCP002A,White,Oatmeal Bread,A,flour unbleached,"Unbleached, All-purpose",3.75,cup,450,
+RCP002A,White,Oatmeal Bread,A,oats old fashioned,"Old fashioned, not quick cooking",1,cup,81,
+RCP002A,White,Oatmeal Bread,A,yeast,"Active dry, Instant or Bread machine",2.25,ts,6.975,
+RCP002B,White,Oatmeal Bread,B,whole milk,Room Temperature,1,cup,244,"1- Put all the ingredients in starting always with the liquids.
+2- Press PROG button to select the White program.
+3- Press COLOR button to select Crust color.
+4- Press SIZE button to select desire loaf size.
+5- Press START button to start baking.
+
+NOTE: if you want to delay the process you can press - or + button to delay the process completion.
+
+* For a sweeter bread, increase the maple syrup by 1/2 tablespoon, substitute your favorite granola for the oats, and add 1/2 teaspoon ground cinnamon."
+RCP002B,White,Oatmeal Bread,B,unsalted butter,"Room Temperature, cut into 1/2 inch pieces",2,tb,28.4,
+RCP002B,White,Oatmeal Bread,B,maple syrup,Or Honey,1.5,tb,30.15,
+RCP002B,White,Oatmeal Bread,B,kosher salt,,1,ts,5.7,
+RCP002B,White,Oatmeal Bread,B,flour unbleached,"Unbleached, All-purpose",3,cup,360,
+RCP002B,White,Oatmeal Bread,B,oats old fashioned,"Old fashioned, not quick cooking",0.75,cup,60.75,
+RCP002B,White,Oatmeal Bread,B,yeast,"Active dry, Instant or Bread machine",2,ts,6.2,
+RCP002C,White,Oatmeal Bread,C,whole milk,Room Temperature,0.75,cup,183,"1- Put all the ingredients in starting always with the liquids.
+2- Press PROG button to select the White program.
+3- Press COLOR button to select Crust color.
+4- Press SIZE button to select desire loaf size.
+5- Press START button to start baking.
+
+NOTE: if you want to delay the process you can press - or + button to delay the process completion.
+
+* For a sweeter bread, increase the maple syrup by 1/2 tablespoon, substitute your favorite granola for the oats, and add 1/2 teaspoon ground cinnamon."
+RCP002C,White,Oatmeal Bread,C,unsalted butter,"Room Temperature, cut into 1/2 inch pieces",1.5,tb,21.3,
+RCP002C,White,Oatmeal Bread,C,maple syrup,Or Honey,1,tb,20.1,
+RCP002C,White,Oatmeal Bread,C,kosher salt,,0.75,ts,4.275,
+RCP002C,White,Oatmeal Bread,C,flour unbleached,"Unbleached, All-purpose",2.25,cup,270,
+RCP002C,White,Oatmeal Bread,C,oats old fashioned,"Old fashioned, not quick cooking",0.5,cup,40.5,
+RCP002C,White,Oatmeal Bread,C,yeast,"Active dry, Instant or Bread machine",1.75,ts,5.425,
+RCP003A,White,Cinammon Swirl Bread,A,whole milk,Room Temperature,1.25,cup,305,"1.Put all dough ingredients, in the order listed, into bread pan fitted with kneading paddle. Secure the bread pan into the Cuisinart® Bread Maker.
+
+2. Press the PROG button to select the White program. Select desired Crust Color and Loaf Size. Press START/STOP to begin the bread-making process.
+
+3. While the dough is mixing and resting, prepare the Cinnamon Swirl: In a small bowl, combine the Cinnamon Swirl ingredients. Reserve.
+
+4. When paddle signal sounds, pause the unit; remove dough. Place the dough on a floured surface. Roll the dough away from you into a rectangle, about 1/4
+inch thick and 16 inches in length. Sprinkle the surface with the Cinnamon Swirl mixture. Roll the dough into a tight cylinder from one short side to the other.
+Tuck the ends underneath the dough and fit back into the bread pan with the kneading paddle removed. Press START/STOP to continue.
+
+5. When the cycle is complete, remove the bread pan from the machine and transfer bread to a wire rack to cool completely before slicing."
+RCP003A,White,Cinammon Swirl Bread,A,unsalted butter,"Room Temperature, cut into 1/2 inch pieces",2.5,tb,35.5,
+RCP003A,White,Cinammon Swirl Bread,A,Egg,"Large, Room Temperature",1,u,50,
+RCP003A,White,Cinammon Swirl Bread,A,kosher salt,,1,ts,5.7,
+RCP003A,White,Cinammon Swirl Bread,A,granulated sugar,,1.5,tb,18.75,
+RCP003A,White,Cinammon Swirl Bread,A,flour unbleached,"Unbleached, All-purpose",4,cup,480,
+RCP003A,White,Cinammon Swirl Bread,A,yeast,"Active dry, Instant or Bread machine",2,ts,6.2,
+RCP003A,White,Cinammon Swirl Bread,A,granulated sugar,,0.75,cup,150,
+RCP003A,White,Cinammon Swirl Bread,A,Ground cinnamon,,2.5,ts,6.9,
+RCP003A,White,Cinammon Swirl Bread,A,Raisins,Optional,1.25,cup,181.25,
+RCP003B,White,Cinammon Swirl Bread,B,whole milk,Room Temperature,1,cup,244,"1.Put all dough ingredients, in the order listed, into bread pan fitted with kneading paddle. Secure the bread pan into the Cuisinart® Bread Maker.
+
+2. Press the PROG button to select the White program. Select desired Crust Color and Loaf Size. Press START/STOP to begin the bread-making process.
+
+3. While the dough is mixing and resting, prepare the Cinnamon Swirl: In a small bowl, combine the Cinnamon Swirl ingredients. Reserve.
+
+4. When paddle signal sounds, pause the unit; remove dough. Place the dough on a floured surface. Roll the dough away from you into a rectangle, about 1/4
+inch thick and 16 inches in length. Sprinkle the surface with the Cinnamon Swirl mixture. Roll the dough into a tight cylinder from one short side to the other.
+Tuck the ends underneath the dough and fit back into the bread pan with the kneading paddle removed. Press START/STOP to continue.
+
+5. When the cycle is complete, remove the bread pan from the machine and transfer bread to a wire rack to cool completely before slicing."
+RCP003B,White,Cinammon Swirl Bread,B,unsalted butter,"Room Temperature, cut into 1/2 inch pieces",2,tb,28.4,
+RCP003B,White,Cinammon Swirl Bread,B,Egg,"Large, Room Temperature",1,u,50,
+RCP003B,White,Cinammon Swirl Bread,B,kosher salt,,1,ts,5.7,
+RCP003B,White,Cinammon Swirl Bread,B,granulated sugar,,1,tb,12.5,
+RCP003B,White,Cinammon Swirl Bread,B,flour unbleached,"Unbleached, All-purpose",3.5,cup,420,
+RCP003B,White,Cinammon Swirl Bread,B,yeast,"Active dry, Instant or Bread machine",2,ts,6.2,
+RCP003B,White,Cinammon Swirl Bread,B,granulated sugar,,0.25,cup,50,
+RCP003B,White,Cinammon Swirl Bread,B,Ground cinnamon,,2,ts,5.52,
+RCP003B,White,Cinammon Swirl Bread,B,Raisins,Optional,1,cup,145,
+RCP003C,White,Cinammon Swirl Bread,C,whole milk,Room Temperature,0.75,cup,183,"1.Put all dough ingredients, in the order listed, into bread pan fitted with kneading paddle. Secure the bread pan into the Cuisinart® Bread Maker.
+
+2. Press the PROG button to select the White program. Select desired Crust Color and Loaf Size. Press START/STOP to begin the bread-making process.
+
+3. While the dough is mixing and resting, prepare the Cinnamon Swirl: In a small bowl, combine the Cinnamon Swirl ingredients. Reserve.
+
+4. When paddle signal sounds, pause the unit; remove dough. Place the dough on a floured surface. Roll the dough away from you into a rectangle, about 1/4
+inch thick and 16 inches in length. Sprinkle the surface with the Cinnamon Swirl mixture. Roll the dough into a tight cylinder from one short side to the other.
+Tuck the ends underneath the dough and fit back into the bread pan with the kneading paddle removed. Press START/STOP to continue.
+
+5. When the cycle is complete, remove the bread pan from the machine and transfer bread to a wire rack to cool completely before slicing."
+RCP003C,White,Cinammon Swirl Bread,C,unsalted butter,"Room Temperature, cut into 1/2 inch pieces",1.5,tb,21.3,
+RCP003C,White,Cinammon Swirl Bread,C,Egg,"Large, Room Temperature",1,u,50,
+RCP003C,White,Cinammon Swirl Bread,C,kosher salt,,0.5,ts,2.85,
+RCP003C,White,Cinammon Swirl Bread,C,granulated sugar,,1,tb,12.5,
+RCP003C,White,Cinammon Swirl Bread,C,flour unbleached,"Unbleached, All-purpose",2.5,cup,300,
+RCP003C,White,Cinammon Swirl Bread,C,yeast,"Active dry, Instant or Bread machine",1.75,ts,5.425,
+RCP003C,White,Cinammon Swirl Bread,C,granulated sugar,,3,tb,37.5,
+RCP003C,White,Cinammon Swirl Bread,C,Ground cinnamon,,1.5,ts,4.14,
+RCP003C,White,Cinammon Swirl Bread,C,Raisins,Optional,0.75,cup,108.75,
+RCP004A,White,Rye Bread,A,water,Room Temerature,1.66,cup,393.42,"1. Put all ingredients, in the order listed, into bread pan fitted with kneading paddle. Secure bread pan into the Cuisinart® Bread Maker.
+
+2. Press the PROG button to select the White program. Select desired Crust Color and Loaf Size. Press START/STOP to begin the bread-making process.
+
+3. If desired, when paddle signal sounds, press START/STOP to pause the unit; remove dough and kneading paddle, reshape dough and replace in
+bread pan. Press START/STOP to continue.
+
+4. When the cycle is complete, remove the bread pan from the machine and transfer bread to a wire rack to cool completely before slicing."
+RCP004A,White,Rye Bread,A,kosher salt,,1.25,ts,7.125,
+RCP004A,White,Rye Bread,A,flour unbleached,"Unbleached, All-purpose",3,cup,360,
+RCP004A,White,Rye Bread,A,flour rye,,2,cup,204,
+RCP004A,White,Rye Bread,A,Caraway seeds,Optional,1,tb,6.7,
+RCP004A,White,Rye Bread,A,yeast,"Active dry, Instant or Bread machine",1,tb,9.3,
+RCP004B,White,Rye Bread,B,water,Room Temerature,1.25,cup,296.25,"1. Put all ingredients, in the order listed, into bread pan fitted with kneading paddle. Secure bread pan into the Cuisinart® Bread Maker.
+
+2. Press the PROG button to select the White program. Select desired Crust Color and Loaf Size. Press START/STOP to begin the bread-making process.
+
+3. If desired, when paddle signal sounds, press START/STOP to pause the unit; remove dough and kneading paddle, reshape dough and replace in
+bread pan. Press START/STOP to continue.
+
+4. When the cycle is complete, remove the bread pan from the machine and transfer bread to a wire rack to cool completely before slicing."
+RCP004B,White,Rye Bread,B,kosher salt,,1,ts,5.7,
+RCP004B,White,Rye Bread,B,flour unbleached,"Unbleached, All-purpose",1.75,cup,210,
+RCP004B,White,Rye Bread,B,flour rye,,1.25,cup,127.5,
+RCP004B,White,Rye Bread,B,Caraway seeds,Optional,2,ts,4.2,
+RCP004B,White,Rye Bread,B,yeast,"Active dry, Instant or Bread machine",2,ts,6.2,
+RCP004C,White,Rye Bread,C,water,Room Temerature,1,cup,237,"1. Put all ingredients, in the order listed, into bread pan fitted with kneading paddle. Secure bread pan into the Cuisinart® Bread Maker.
+
+2. Press the PROG button to select the White program. Select desired Crust Color and Loaf Size. Press START/STOP to begin the bread-making process.
+
+3. If desired, when paddle signal sounds, press START/STOP to pause the unit; remove dough and kneading paddle, reshape dough and replace in
+bread pan. Press START/STOP to continue.
+
+4. When the cycle is complete, remove the bread pan from the machine and transfer bread to a wire rack to cool completely before slicing."
+RCP004C,White,Rye Bread,C,kosher salt,,0.75,ts,4.275,
+RCP004C,White,Rye Bread,C,flour unbleached,"Unbleached, All-purpose",1.25,cup,150,
+RCP004C,White,Rye Bread,C,flour rye,,0.75,cup,76.5,
+RCP004C,White,Rye Bread,C,Caraway seeds,Optional,1.5,ts,3.15,
+RCP004C,White,Rye Bread,C,yeast,"Active dry, Instant or Bread machine",1.5,ts,4.65,
+RCP005A,White,Jalapeño cheddar Bread,A,Butter milk,Room Temperature,1.5,cup,362.7,"1. Put all ingredients (except for the jalapeño and Cheddar), in the order listed, into bread pan fitted with kneading paddle. Secure bread pan into the
+Cuisinart® Bread Maker.
+
+2. Press the PROG button to select the White program. Select desired Crust Color and Loaf Size. Press START/STOP to begin the bread-making process.
+
+3. When the add-in signal sounds, add the jalapeno and cheese to the kneading bread dough.
+
+4. If desired, when paddle signal sounds, press START/STOP to pause the unit; remove dough and kneading paddle, reshape dough and replace in
+bread pan. Press START/STOP to continue.
+
+5. When the cycle is complete, remove the bread pan from the machine and transfer bread to a wire rack to cool completely before slicing."
+RCP005A,White,Jalapeño cheddar Bread,A,Hot Pepper Sauce,,0.75,ts,3.75,
+RCP005A,White,Jalapeño cheddar Bread,A,unsalted butter,"Room Temperature, cut into 1/2 inch pieces",3,tb,42.6,
+RCP005A,White,Jalapeño cheddar Bread,A,granulated sugar,,1,tb,12.5,
+RCP005A,White,Jalapeño cheddar Bread,A,kosher salt,,1,ts,5.7,
+RCP005A,White,Jalapeño cheddar Bread,A,flour unbleached,"Unbleached, All-purpose",4,cup,480,
+RCP005A,White,Jalapeño cheddar Bread,A,yeast,"Active dry, Instant or Bread machine",1.5,ts,4.65,
+RCP005A,White,Jalapeño cheddar Bread,A,Jalapeño chile,Seeded and finely chopped,2,u,,
+RCP005A,White,Jalapeño cheddar Bread,A,Sharp Cheddar,Shredded,1,cup,113,
+RCP005B,White,Jalapeño cheddar Bread,B,Butter milk,Room Temperature,1,cup,241.8,"1. Put all ingredients (except for the jalapeño and Cheddar), in the order listed, into bread pan fitted with kneading paddle. Secure bread pan into the
+Cuisinart® Bread Maker.
+
+2. Press the PROG button to select the White program. Select desired Crust Color and Loaf Size. Press START/STOP to begin the bread-making process.
+
+3. When the add-in signal sounds, add the jalapeno and cheese to the kneading bread dough.
+
+4. If desired, when paddle signal sounds, press START/STOP to pause the unit; remove dough and kneading paddle, reshape dough and replace in
+bread pan. Press START/STOP to continue.
+
+5. When the cycle is complete, remove the bread pan from the machine and transfer bread to a wire rack to cool completely before slicing."
+RCP005B,White,Jalapeño cheddar Bread,B,Hot Pepper Sauce,,0.5,ts,2.5,
+RCP005B,White,Jalapeño cheddar Bread,B,unsalted butter,"Room Temperature, cut into 1/2 inch pieces",2.33,tb,33.086,
+RCP005B,White,Jalapeño cheddar Bread,B,granulated sugar,,2,ts,8.4,
+RCP005B,White,Jalapeño cheddar Bread,B,kosher salt,,0.75,ts,4.275,
+RCP005B,White,Jalapeño cheddar Bread,B,flour unbleached,"Unbleached, All-purpose",3,cup,360,
+RCP005B,White,Jalapeño cheddar Bread,B,yeast,"Active dry, Instant or Bread machine",1,ts,3.1,
+RCP005B,White,Jalapeño cheddar Bread,B,Jalapeño chile,Seeded and finely chopped,1.5,u,,
+RCP005B,White,Jalapeño cheddar Bread,B,Sharp Cheddar,Shredded,0.75,cup,84.75,
+RCP005C,White,Jalapeño cheddar Bread,C,Butter milk,Room Temperature,0.75,cup,181.35,"1. Put all ingredients (except for the jalapeño and Cheddar), in the order listed, into bread pan fitted with kneading paddle. Secure bread pan into the
+Cuisinart® Bread Maker.
+
+2. Press the PROG button to select the White program. Select desired Crust Color and Loaf Size. Press START/STOP to begin the bread-making process.
+
+3. When the add-in signal sounds, add the jalapeno and cheese to the kneading bread dough.
+
+4. If desired, when paddle signal sounds, press START/STOP to pause the unit; remove dough and kneading paddle, reshape dough and replace in
+bread pan. Press START/STOP to continue.
+
+5. When the cycle is complete, remove the bread pan from the machine and transfer bread to a wire rack to cool completely before slicing."
+RCP005C,White,Jalapeño cheddar Bread,C,Hot Pepper Sauce,,0.25,ts,1.25,
+RCP005C,White,Jalapeño cheddar Bread,C,unsalted butter,"Room Temperature, cut into 1/2 inch pieces",1.5,tb,21.3,
+RCP005C,White,Jalapeño cheddar Bread,C,granulated sugar,,1.5,ts,6.3,
+RCP005C,White,Jalapeño cheddar Bread,C,kosher salt,,0.5,ts,2.85,
+RCP005C,White,Jalapeño cheddar Bread,C,flour unbleached,"Unbleached, All-purpose",2,cup,240,
+RCP005C,White,Jalapeño cheddar Bread,C,yeast,"Active dry, Instant or Bread machine",0.75,ts,2.325,
+RCP005C,White,Jalapeño cheddar Bread,C,Jalapeño chile,Seeded and finely chopped,1,u,,
+RCP005C,White,Jalapeño cheddar Bread,C,Sharp Cheddar,Shredded,0.5,cup,56.5,
+RCP006A,FrenchItalian,French Bread Loaf,A,water,Room Temperature,1.5,cup,355.5,"1. Put all ingredients, in the order listed, into bread pan fitted with kneading paddle. Secure bread pan into the Cuisinart® Bread Maker.
+
+2. Press the PROG button to select the French program. Select desired Crust Color and Loaf Size. Press START/STOP to begin the bread-making process.
+
+3. If desired, when paddle signal sounds, press START/STOP to pause the unit; remove dough and kneading paddle, reshape dough and replace
+in bread pan. Press START/STOP to continue.
+
+4. When the cycle is complete, remove the bread pan from the machine and transfer bread to a wire rack to cool completely before slicing."
+RCP006A,FrenchItalian,French Bread Loaf,A,kosher salt,,1.5,ts,8.55,
+RCP006A,FrenchItalian,French Bread Loaf,A,flour unbleached,"Unbleached, All-purpose",4,cup,480,
+RCP006A,FrenchItalian,French Bread Loaf,A,yeast,"Active dry, Instant or Bread machine",1.5,ts,4.65,
+RCP006B,FrenchItalian,French Bread Loaf,B,water,Room Temperature,1.25,cup,296.25,"1. Put all ingredients, in the order listed, into bread pan fitted with kneading paddle. Secure bread pan into the Cuisinart® Bread Maker.
+
+2. Press the PROG button to select the French program. Select desired Crust Color and Loaf Size. Press START/STOP to begin the bread-making process.
+
+3. If desired, when paddle signal sounds, press START/STOP to pause the unit; remove dough and kneading paddle, reshape dough and replace
+in bread pan. Press START/STOP to continue.
+
+4. When the cycle is complete, remove the bread pan from the machine and transfer bread to a wire rack to cool completely before slicing."
+RCP006B,FrenchItalian,French Bread Loaf,B,kosher salt,,1.5,ts,8.55,
+RCP006B,FrenchItalian,French Bread Loaf,B,flour unbleached,"Unbleached, All-purpose",3.25,cup,390,
+RCP006B,FrenchItalian,French Bread Loaf,B,yeast,"Active dry, Instant or Bread machine",1.25,ts,3.875,
+RCP006C,FrenchItalian,French Bread Loaf,C,water,Room Temperature,1.25,cup,296.25,"1. Put all ingredients, in the order listed, into bread pan fitted with kneading paddle. Secure bread pan into the Cuisinart® Bread Maker.
+
+2. Press the PROG button to select the French program. Select desired Crust Color and Loaf Size. Press START/STOP to begin the bread-making process.
+
+3. If desired, when paddle signal sounds, press START/STOP to pause the unit; remove dough and kneading paddle, reshape dough and replace
+in bread pan. Press START/STOP to continue.
+
+4. When the cycle is complete, remove the bread pan from the machine and transfer bread to a wire rack to cool completely before slicing."
+RCP006C,FrenchItalian,French Bread Loaf,C,kosher salt,,1.5,ts,8.55,
+RCP006C,FrenchItalian,French Bread Loaf,C,flour unbleached,"Unbleached, All-purpose",3.25,cup,390,
+RCP006C,FrenchItalian,French Bread Loaf,C,yeast,"Active dry, Instant or Bread machine",1.25,ts,3.875,
+RCP007A,FrenchItalian,Rustic Italian Loaf,A,water,Room Temperature,1.5,cup,355.5,"1. Put all ingredients (except for optional sesame seeds), in the order listed, into bread pan fitted with kneading paddle. Secure bread pan into the
+Cuisinart® Bread Maker.
+
+2. Press the PROG button to select the French program. Select desired Crust Color and Loaf Size. Press START/STOP to begin the bread-making process.
+
+3. If desired, when paddle signal sounds, press START/STOP to pause the unit; remove dough and kneading paddle, reshape dough and replace
+in bread pan. Sprinkle with sesame seeds, if desired, and press START/STOP to continue rising and baking.
+
+4. When the cycle is complete, remove the bread pan from the machine and transfer bread to a wire rack to cool completely before slicing."
+RCP007A,FrenchItalian,Rustic Italian Loaf,A,Olive oil,,2,tb,27.2,
+RCP007A,FrenchItalian,Rustic Italian Loaf,A,kosher salt,,2,ts,11.4,
+RCP007A,FrenchItalian,Rustic Italian Loaf,A,granulated sugar,,1,ts,4.2,
+RCP007A,FrenchItalian,Rustic Italian Loaf,A,flour unbleached,"Unbleached, All-purpose",4,cup,480,
+RCP007A,FrenchItalian,Rustic Italian Loaf,A,Wheat bran,"Unprocessed, coarse",0.5,cup,29,
+RCP007A,FrenchItalian,Rustic Italian Loaf,A,yeast,"Active dry, Instant or Bread machine",1.5,ts,4.65,
+RCP007A,FrenchItalian,Rustic Italian Loaf,A,Sesame seeds,Optional,1,tb,9,
+RCP007B,FrenchItalian,Rustic Italian Loaf,B,water,Room Temperature,1,cup,237,"1. Put all ingredients (except for optional sesame seeds), in the order listed, into bread pan fitted with kneading paddle. Secure bread pan into the
+Cuisinart® Bread Maker.
+
+2. Press the PROG button to select the French program. Select desired Crust Color and Loaf Size. Press START/STOP to begin the bread-making process.
+
+3. If desired, when paddle signal sounds, press START/STOP to pause the unit; remove dough and kneading paddle, reshape dough and replace
+in bread pan. Sprinkle with sesame seeds, if desired, and press START/STOP to continue rising and baking.
+
+4. When the cycle is complete, remove the bread pan from the machine and transfer bread to a wire rack to cool completely before slicing."
+RCP007B,FrenchItalian,Rustic Italian Loaf,B,Olive oil,,1.5,tb,20.4,
+RCP007B,FrenchItalian,Rustic Italian Loaf,B,kosher salt,,1.5,ts,8.55,
+RCP007B,FrenchItalian,Rustic Italian Loaf,B,granulated sugar,,0.75,ts,3.15,
+RCP007B,FrenchItalian,Rustic Italian Loaf,B,flour unbleached,"Unbleached, All-purpose",3,cup,360,
+RCP007B,FrenchItalian,Rustic Italian Loaf,B,Wheat bran,"Unprocessed, coarse",0.33,cup,19.14,
+RCP007B,FrenchItalian,Rustic Italian Loaf,B,yeast,"Active dry, Instant or Bread machine",1.25,ts,3.875,
+RCP007B,FrenchItalian,Rustic Italian Loaf,B,Sesame seeds,Optional,2,ts,6,
+RCP007C,FrenchItalian,Rustic Italian Loaf,C,water,Room Temperature,0.75,cup,177.75,"1. Put all ingredients (except for optional sesame seeds), in the order listed, into bread pan fitted with kneading paddle. Secure bread pan into the
+Cuisinart® Bread Maker.
+
+2. Press the PROG button to select the French program. Select desired Crust Color and Loaf Size. Press START/STOP to begin the bread-making process.
+
+3. If desired, when paddle signal sounds, press START/STOP to pause the unit; remove dough and kneading paddle, reshape dough and replace
+in bread pan. Sprinkle with sesame seeds, if desired, and press START/STOP to continue rising and baking.
+
+4. When the cycle is complete, remove the bread pan from the machine and transfer bread to a wire rack to cool completely before slicing."
+RCP007C,FrenchItalian,Rustic Italian Loaf,C,Olive oil,,1,tb,13.6,
+RCP007C,FrenchItalian,Rustic Italian Loaf,C,kosher salt,,1,ts,5.7,
+RCP007C,FrenchItalian,Rustic Italian Loaf,C,granulated sugar,,0.5,ts,2.1,
+RCP007C,FrenchItalian,Rustic Italian Loaf,C,flour unbleached,"Unbleached, All-purpose",2,cup,240,
+RCP007C,FrenchItalian,Rustic Italian Loaf,C,Wheat bran,"Unprocessed, coarse",0.25,cup,14.5,
+RCP007C,FrenchItalian,Rustic Italian Loaf,C,yeast,"Active dry, Instant or Bread machine",1,ts,3.1,
+RCP007C,FrenchItalian,Rustic Italian Loaf,C,Sesame seeds,Optional,1.5,ts,4.5,
+RCP008A,FrenchItalian,Country French Bread with Olives & Rosemary,A,water,Room temperature,1.5,cup,355.5,"1. Put all ingredients (except olives), in the order listed, into bread pan fitted with kneading paddle. Secure bread pan into Cuisinart® Bread Maker.
+
+2. Press the PROG button to select the French program. Select desired Loaf Size. Press START/STOP to begin the bread-making process.
+
+3. When the add-in signal sounds, add the olives. If desired, when paddle signal sounds, press START/STOP to pause the unit; remove dough and kneading
+paddle, reshape dough and replace in bread pan. Press START/STOP to continue.
+
+4. When the cycle is complete, remove the bread pan from the machine and transfer bread to a wire rack to cool completely before slicing."
+RCP008A,FrenchItalian,Country French Bread with Olives & Rosemary,A,Olive oil,,1,tb,13.6,
+RCP008A,FrenchItalian,Country French Bread with Olives & Rosemary,A,kosher salt,,1.5,ts,8.55,
+RCP008A,FrenchItalian,Country French Bread with Olives & Rosemary,A,Honey,,1,ts,7,
+RCP008A,FrenchItalian,Country French Bread with Olives & Rosemary,A,Rosemary,fresh and chopped,1,tb,1.7,
+RCP008A,FrenchItalian,Country French Bread with Olives & Rosemary,A,flour unbleached,"Unbleached, All-purpose",2.5,cup,300,
+RCP008A,FrenchItalian,Country French Bread with Olives & Rosemary,A,flour whole-wheat,,1.5,cup,169.5,
+RCP008A,FrenchItalian,Country French Bread with Olives & Rosemary,A,flour rye,,0.33,cup,33.66,
+RCP008A,FrenchItalian,Country French Bread with Olives & Rosemary,A,yeast,"Active dry, Instant or Bread machine",1.5,ts,4.65,
+RCP008A,FrenchItalian,Country French Bread with Olives & Rosemary,A,Kalamata olives,"pitted, drained, patted dry, and halved",1,cup,213,
+RCP008B,FrenchItalian,Country French Bread with Olives & Rosemary,B,water,Room temperature,1.13,cup,267.81,"1. Put all ingredients (except olives), in the order listed, into bread pan fitted with kneading paddle. Secure bread pan into Cuisinart® Bread Maker.
+
+2. Press the PROG button to select the French program. Select desired Loaf Size. Press START/STOP to begin the bread-making process.
+
+3. When the add-in signal sounds, add the olives. If desired, when paddle signal sounds, press START/STOP to pause the unit; remove dough and kneading
+paddle, reshape dough and replace in bread pan. Press START/STOP to continue.
+
+4. When the cycle is complete, remove the bread pan from the machine and transfer bread to a wire rack to cool completely before slicing."
+RCP008B,FrenchItalian,Country French Bread with Olives & Rosemary,B,Olive oil,,2,ts,9.06,
+RCP008B,FrenchItalian,Country French Bread with Olives & Rosemary,B,kosher salt,,1.25,ts,7.125,
+RCP008B,FrenchItalian,Country French Bread with Olives & Rosemary,B,Honey,,1,ts,7,
+RCP008B,FrenchItalian,Country French Bread with Olives & Rosemary,B,Rosemary,fresh and chopped,2,ts,1.14,
+RCP008B,FrenchItalian,Country French Bread with Olives & Rosemary,B,flour unbleached,"Unbleached, All-purpose",2,cup,240,
+RCP008B,FrenchItalian,Country French Bread with Olives & Rosemary,B,flour whole-wheat,,1,cup,113,
+RCP008B,FrenchItalian,Country French Bread with Olives & Rosemary,B,flour rye,,0.25,cup,25.5,
+RCP008B,FrenchItalian,Country French Bread with Olives & Rosemary,B,yeast,"Active dry, Instant or Bread machine",1.25,ts,3.875,
+RCP008B,FrenchItalian,Country French Bread with Olives & Rosemary,B,Kalamata olives,"pitted, drained, patted dry, and halved",0.75,cup,159.75,
+RCP008C,FrenchItalian,Country French Bread with Olives & Rosemary,C,water,Room temperature,0.75,cup,177.75,"1. Put all ingredients (except olives), in the order listed, into bread pan fitted with kneading paddle. Secure bread pan into Cuisinart® Bread Maker.
+
+2. Press the PROG button to select the French program. Select desired Loaf Size. Press START/STOP to begin the bread-making process.
+
+3. When the add-in signal sounds, add the olives. If desired, when paddle signal sounds, press START/STOP to pause the unit; remove dough and kneading
+paddle, reshape dough and replace in bread pan. Press START/STOP to continue.
+
+4. When the cycle is complete, remove the bread pan from the machine and transfer bread to a wire rack to cool completely before slicing."
+RCP008C,FrenchItalian,Country French Bread with Olives & Rosemary,C,Olive oil,,1.5,ts,6.795,
+RCP008C,FrenchItalian,Country French Bread with Olives & Rosemary,C,kosher salt,,0.75,ts,4.275,
+RCP008C,FrenchItalian,Country French Bread with Olives & Rosemary,C,Honey,,0.5,ts,3.5,
+RCP008C,FrenchItalian,Country French Bread with Olives & Rosemary,C,Rosemary,fresh and chopped,1,ts,0.57,
+RCP008C,FrenchItalian,Country French Bread with Olives & Rosemary,C,flour unbleached,"Unbleached, All-purpose",1.5,cup,180,
+RCP008C,FrenchItalian,Country French Bread with Olives & Rosemary,C,flour whole-wheat,,0.5,cup,56.5,
+RCP008C,FrenchItalian,Country French Bread with Olives & Rosemary,C,flour rye,,3,tb,19.2,
+RCP008C,FrenchItalian,Country French Bread with Olives & Rosemary,C,yeast,"Active dry, Instant or Bread machine",1,ts,3.1,
+RCP008C,FrenchItalian,Country French Bread with Olives & Rosemary,C,Kalamata olives,"pitted, drained, patted dry, and halved",0.5,cup,106.5,
+RCP009A,FrenchItalian,Parmesan Peppercorn French Bread,A,water,Room Temperature,1.25,cup,296.25,"1. Put all ingredients, in the order listed, into bread pan fitted with kneading paddle. Secure bread pan into the Cuisinart® Bread Maker.
+
+2. Press the PROG button to select the French program. Select desired Crust Color and Loaf Size. Press START/STOP to begin the bread-making process.
+
+3. If desired, when paddle signal sounds, press START/STOP to pause the unit; remove dough and kneading paddle, reshape dough and replace
+in bread pan. Press START/STOP to continue.
+
+4. When the cycle is complete, remove the bread pan from the machine and transfer bread to a wire rack to cool completely before slicing."
+RCP009A,FrenchItalian,Parmesan Peppercorn French Bread,A,Olive oil,,0.25,cup,54.415,
+RCP009A,FrenchItalian,Parmesan Peppercorn French Bread,A,kosher salt,,1.25,ts,7.125,
+RCP009A,FrenchItalian,Parmesan Peppercorn French Bread,A,flour unbleached,"Unbleached, All-purpose",3.75,cup,450,
+RCP009A,FrenchItalian,Parmesan Peppercorn French Bread,A,Parmesan Cheese,Grated,0.66,cup,66,
+RCP009A,FrenchItalian,Parmesan Peppercorn French Bread,A,Black pepper,Freshly ground,0.75,ts,1.5,
+RCP009A,FrenchItalian,Parmesan Peppercorn French Bread,A,yeast,"Active dry, Instant or Bread machine",1.5,ts,4.65,
+RCP009B,FrenchItalian,Parmesan Peppercorn French Bread,B,water,Room Temperature,1,cup,237,"1. Put all ingredients, in the order listed, into bread pan fitted with kneading paddle. Secure bread pan into the Cuisinart® Bread Maker.
+
+2. Press the PROG button to select the French program. Select desired Crust Color and Loaf Size. Press START/STOP to begin the bread-making process.
+
+3. If desired, when paddle signal sounds, press START/STOP to pause the unit; remove dough and kneading paddle, reshape dough and replace
+in bread pan. Press START/STOP to continue.
+
+4. When the cycle is complete, remove the bread pan from the machine and transfer bread to a wire rack to cool completely before slicing."
+RCP009B,FrenchItalian,Parmesan Peppercorn French Bread,B,Olive oil,,3,tb,40.8,
+RCP009B,FrenchItalian,Parmesan Peppercorn French Bread,B,kosher salt,,1,ts,5.7,
+RCP009B,FrenchItalian,Parmesan Peppercorn French Bread,B,flour unbleached,"Unbleached, All-purpose",3,cup,360,
+RCP009B,FrenchItalian,Parmesan Peppercorn French Bread,B,Parmesan Cheese,Grated,0.5,cup,50,
+RCP009B,FrenchItalian,Parmesan Peppercorn French Bread,B,Black pepper,Freshly ground,0.5,ts,1,
+RCP009B,FrenchItalian,Parmesan Peppercorn French Bread,B,yeast,"Active dry, Instant or Bread machine",1.25,ts,3.875,
+RCP009C,FrenchItalian,Parmesan Peppercorn French Bread,C,water,Room Temperature,0.75,cup,177.75,"1. Put all ingredients, in the order listed, into bread pan fitted with kneading paddle. Secure bread pan into the Cuisinart® Bread Maker.
+
+2. Press the PROG button to select the French program. Select desired Crust Color and Loaf Size. Press START/STOP to begin the bread-making process.
+
+3. If desired, when paddle signal sounds, press START/STOP to pause the unit; remove dough and kneading paddle, reshape dough and replace
+in bread pan. Press START/STOP to continue.
+
+4. When the cycle is complete, remove the bread pan from the machine and transfer bread to a wire rack to cool completely before slicing."
+RCP009C,FrenchItalian,Parmesan Peppercorn French Bread,C,Olive oil,,2,tb,27.2,
+RCP009C,FrenchItalian,Parmesan Peppercorn French Bread,C,kosher salt,,0.75,ts,4.275,
+RCP009C,FrenchItalian,Parmesan Peppercorn French Bread,C,flour unbleached,"Unbleached, All-purpose",2.25,cup,270,
+RCP009C,FrenchItalian,Parmesan Peppercorn French Bread,C,Parmesan Cheese,Grated,0.33,cup,33,
+RCP009C,FrenchItalian,Parmesan Peppercorn French Bread,C,Black pepper,Freshly ground,0.25,ts,0.5,
+RCP009C,FrenchItalian,Parmesan Peppercorn French Bread,C,yeast,"Active dry, Instant or Bread machine",1,ts,3.1,
+RCP010A,FrenchItalian,Semolina Bread with Fennel & Golden Raisins,A,water,Room temperature,1.66,cup,393.42,"1. Put all ingredients (except for the raisins), in the order listed, into bread pan fitted with the kneading paddle. Secure bread pan into the
+Cuisinart® Bread Maker.
+
+2. Press the PROG button to select the French program. Select desired Loaf Size. Press START/STOP to begin the bread-making process.
+
+3. When the add-in signal sounds, add the raisins. If desired, when paddle signal sounds, press START/STOP to pause the unit; remove dough and kneading
+paddle, reshape dough and replace in bread pan. Press START/STOP to continue.
+
+4. When the cycle is complete, remove the bread pan from the machine and transfer bread to a wire rack to cool completely before slicing."
+RCP010A,FrenchItalian,Semolina Bread with Fennel & Golden Raisins,A,kosher salt,,2,ts,11.4,
+RCP010A,FrenchItalian,Semolina Bread with Fennel & Golden Raisins,A,Fennel seeds,,2,ts,3.6,
+RCP010A,FrenchItalian,Semolina Bread with Fennel & Golden Raisins,A,granulated sugar,,1,ts,4.2,
+RCP010A,FrenchItalian,Semolina Bread with Fennel & Golden Raisins,A,Semolina flour,,3,cup,501,
+RCP010A,FrenchItalian,Semolina Bread with Fennel & Golden Raisins,A,flour unbleached,"Unbleached, All-purpose",1,cup,120,
+RCP010A,FrenchItalian,Semolina Bread with Fennel & Golden Raisins,A,yeast,"Active dry, Instant or Bread machine",1.5,ts,4.65,
+RCP010A,FrenchItalian,Semolina Bread with Fennel & Golden Raisins,A,Golden raisins,,0.75,cup,123.75,
+RCP010B,FrenchItalian,Semolina Bread with Fennel & Golden Raisins,B,water,Room temperature,1.31,cup,310.47,"1. Put all ingredients (except for the raisins), in the order listed, into bread pan fitted with the kneading paddle. Secure bread pan into the
+Cuisinart® Bread Maker.
+
+2. Press the PROG button to select the French program. Select desired Loaf Size. Press START/STOP to begin the bread-making process.
+
+3. When the add-in signal sounds, add the raisins. If desired, when paddle signal sounds, press START/STOP to pause the unit; remove dough and kneading
+paddle, reshape dough and replace in bread pan. Press START/STOP to continue.
+
+4. When the cycle is complete, remove the bread pan from the machine and transfer bread to a wire rack to cool completely before slicing."
+RCP010B,FrenchItalian,Semolina Bread with Fennel & Golden Raisins,B,kosher salt,,1.5,ts,8.55,
+RCP010B,FrenchItalian,Semolina Bread with Fennel & Golden Raisins,B,Fennel seeds,,1.5,ts,2.7,
+RCP010B,FrenchItalian,Semolina Bread with Fennel & Golden Raisins,B,granulated sugar,,0.75,ts,3.15,
+RCP010B,FrenchItalian,Semolina Bread with Fennel & Golden Raisins,B,Semolina flour,,2.25,cup,375.75,
+RCP010B,FrenchItalian,Semolina Bread with Fennel & Golden Raisins,B,flour unbleached,"Unbleached, All-purpose",0.75,cup,90,
+RCP010B,FrenchItalian,Semolina Bread with Fennel & Golden Raisins,B,yeast,"Active dry, Instant or Bread machine",1.25,ts,3.875,
+RCP010B,FrenchItalian,Semolina Bread with Fennel & Golden Raisins,B,Golden raisins,,0.66,cup,108.9,
+RCP010C,FrenchItalian,Semolina Bread with Fennel & Golden Raisins,C,water,Room temperature,0.88,cup,208.56,"1. Put all ingredients (except for the raisins), in the order listed, into bread pan fitted with the kneading paddle. Secure bread pan into the
+Cuisinart® Bread Maker.
+
+2. Press the PROG button to select the French program. Select desired Loaf Size. Press START/STOP to begin the bread-making process.
+
+3. When the add-in signal sounds, add the raisins. If desired, when paddle signal sounds, press START/STOP to pause the unit; remove dough and kneading
+paddle, reshape dough and replace in bread pan. Press START/STOP to continue.
+
+4. When the cycle is complete, remove the bread pan from the machine and transfer bread to a wire rack to cool completely before slicing."
+RCP010C,FrenchItalian,Semolina Bread with Fennel & Golden Raisins,C,kosher salt,,1,ts,5.7,
+RCP010C,FrenchItalian,Semolina Bread with Fennel & Golden Raisins,C,Fennel seeds,,1,ts,1.8,
+RCP010C,FrenchItalian,Semolina Bread with Fennel & Golden Raisins,C,granulated sugar,,0.5,ts,2.1,
+RCP010C,FrenchItalian,Semolina Bread with Fennel & Golden Raisins,C,Semolina flour,,1.5,cup,250.5,
+RCP010C,FrenchItalian,Semolina Bread with Fennel & Golden Raisins,C,flour unbleached,"Unbleached, All-purpose",0.5,cup,60,
+RCP010C,FrenchItalian,Semolina Bread with Fennel & Golden Raisins,C,yeast,"Active dry, Instant or Bread machine",1,ts,3.1,
+RCP010C,FrenchItalian,Semolina Bread with Fennel & Golden Raisins,C,Golden raisins,,0.5,cup,82.5,

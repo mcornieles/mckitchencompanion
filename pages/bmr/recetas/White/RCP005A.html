@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Jalapeño cheddar Bread – 2 lb</title>
+    <link rel="stylesheet" href="../assets/styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Jalapeño cheddar Bread – 2 lb</h1>
+        <div class="card">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Ingredient</th>
+                        <th>Detail</th>
+                        <th>Amount</th>
+                        <th>Unit</th>
+                        <th>Grams</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    
+        <tr>
+            <td>Butter milk</td>
+            <td>Room Temperature</td>
+            <td>1.5</td>
+            <td>cup</td>
+            <td>362.7</td>
+        </tr>
+        <tr>
+            <td>Hot Pepper Sauce</td>
+            <td></td>
+            <td>0.75</td>
+            <td>ts</td>
+            <td>3.75</td>
+        </tr>
+        <tr>
+            <td>unsalted butter</td>
+            <td>Room Temperature, cut into 1/2 inch pieces</td>
+            <td>3</td>
+            <td>tb</td>
+            <td>42.6</td>
+        </tr>
+        <tr>
+            <td>granulated sugar</td>
+            <td></td>
+            <td>1</td>
+            <td>tb</td>
+            <td>12.5</td>
+        </tr>
+        <tr>
+            <td>kosher salt</td>
+            <td></td>
+            <td>1</td>
+            <td>ts</td>
+            <td>5.7</td>
+        </tr>
+        <tr>
+            <td>flour unbleached</td>
+            <td>Unbleached, All-purpose</td>
+            <td>4</td>
+            <td>cup</td>
+            <td>480</td>
+        </tr>
+        <tr>
+            <td>yeast</td>
+            <td>Active dry, Instant or Bread machine</td>
+            <td>1.5</td>
+            <td>ts</td>
+            <td>4.65</td>
+        </tr>
+        <tr>
+            <td>Jalapeño chile</td>
+            <td>Seeded and finely chopped</td>
+            <td>2</td>
+            <td>u</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Sharp Cheddar</td>
+            <td>Shredded</td>
+            <td>1</td>
+            <td>cup</td>
+            <td>113</td>
+        </tr>
+                </tbody>
+            </table>
+            
+    <button id="toggleInstructions">Show/Hide Instructions</button>
+    <div id="instructionBox" style="display: none; margin-top: 1rem;">
+        <p>1. Put all ingredients (except for the jalapeño and Cheddar), in the order listed, into bread pan fitted with kneading paddle. Secure bread pan into the<br>Cuisinart® Bread Maker.<br><br>2. Press the PROG button to select the White program. Select desired Crust Color and Loaf Size. Press START/STOP to begin the bread-making process.<br><br>3. When the add-in signal sounds, add the jalapeno and cheese to the kneading bread dough.<br><br>4. If desired, when paddle signal sounds, press START/STOP to pause the unit; remove dough and kneading paddle, reshape dough and replace in<br>bread pan. Press START/STOP to continue.<br><br>5. When the cycle is complete, remove the bread pan from the machine and transfer bread to a wire rack to cool completely before slicing.</p>
+    </div>
+        </div>
+    </div>
+    <script>
+        const toggleBtn = document.getElementById('toggleInstructions');
+        const instructionBox = document.getElementById('instructionBox');
+        if (toggleBtn && instructionBox) {
+            toggleBtn.addEventListener('click', () => {
+                instructionBox.style.display = instructionBox.style.display === 'none' ? 'block' : 'none';
+            });
+        }
+    </script>
+</body>
+</html>

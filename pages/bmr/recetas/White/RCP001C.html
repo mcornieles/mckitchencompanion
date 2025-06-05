@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Basic White Bread – 1 lb</title>
+    <link rel="stylesheet" href="../assets/styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Basic White Bread – 1 lb</h1>
+        <div class="card">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Ingredient</th>
+                        <th>Detail</th>
+                        <th>Amount</th>
+                        <th>Unit</th>
+                        <th>Grams</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    
+        <tr>
+            <td>water</td>
+            <td>Room Temperature</td>
+            <td>0.75</td>
+            <td>cup</td>
+            <td>177.75</td>
+        </tr>
+        <tr>
+            <td>unsalted butter</td>
+            <td>Room Temperature, cut into 1/2 inch pieces</td>
+            <td>1</td>
+            <td>tb</td>
+            <td>14.2</td>
+        </tr>
+        <tr>
+            <td>granulated sugar</td>
+            <td></td>
+            <td>1.5</td>
+            <td>ts</td>
+            <td>6.3</td>
+        </tr>
+        <tr>
+            <td>kosher salt</td>
+            <td></td>
+            <td>0.75</td>
+            <td>ts</td>
+            <td>4.275</td>
+        </tr>
+        <tr>
+            <td>flour unbleached</td>
+            <td>Unbleach, All-Purpose</td>
+            <td>2</td>
+            <td>cup</td>
+            <td>240</td>
+        </tr>
+        <tr>
+            <td>milk nonfat dry</td>
+            <td>Nonfat dry</td>
+            <td>2</td>
+            <td>tb</td>
+            <td>8.6</td>
+        </tr>
+        <tr>
+            <td>yeast</td>
+            <td>Active dry, Instant or Bread machine</td>
+            <td>0.75</td>
+            <td>ts</td>
+            <td>2.325</td>
+        </tr>
+                </tbody>
+            </table>
+            
+    <button id="toggleInstructions">Show/Hide Instructions</button>
+    <div id="instructionBox" style="display: none; margin-top: 1rem;">
+        <p>1- Put all the ingredients in starting always with the liquids.<br>2- Press PROG button to select the White program.<br>3- Press COLOR button to select Crust color.<br>4- Press SIZE button to select desire loaf size.<br>5- Press START button to start baking.<br><br>NOTE: if you want to delay the process you can press - or + button to delay the process completion.</p>
+    </div>
+        </div>
+    </div>
+    <script>
+        const toggleBtn = document.getElementById('toggleInstructions');
+        const instructionBox = document.getElementById('instructionBox');
+        if (toggleBtn && instructionBox) {
+            toggleBtn.addEventListener('click', () => {
+                instructionBox.style.display = instructionBox.style.display === 'none' ? 'block' : 'none';
+            });
+        }
+    </script>
+</body>
+</html>

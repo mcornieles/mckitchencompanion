@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>CA Bread Recipes</title>
+  <link rel="stylesheet" href="assets/styles.css" />
+</head>
+<body class="bmr-page">
+  <div class="overlay">
+    <h1 class="main-title">Cuisinart Bread Maker Recipes</h1>
+
+    <div class="dropdown-container">
+      <select id="dropdownGroup" disabled>
+        <option value="">Select Group</option>
+      </select>
+
+      <select id="dropdownName" disabled>
+        <option value="">Select Recipe Name</option>
+      </select>
+
+      <select id="dropdownSize" disabled>
+        <option value="">Select Size</option>
+      </select>
+    </div>
+
+    <div id="recipeContainer" class="recipe-display hidden">
+      <h2 id="recipeTitle"></h2>
+      <table id="recipeTable">
+        <thead>
+          <tr>
+            <th>Ingredient</th>
+            <th>Detail</th>
+            <th>Amount</th>
+            <th>Unit</th>
+            <th>Grams</th>
+          </tr>
+        </thead>
+        <tbody id="recipeBody">
+        </tbody>
+      </table>
+
+      <button id="toggleInstructionsButton">Show Instructions</button>
+      <div id="instructionBox" class="hidden"></div>
+    </div>
+
+    <a href="../../index.html" class="back-link">← Back to Main Menu</a>
+
+  </div>
+ <script src="assets/papaparse.min.js"></script>
+<script src="assets/main.js"></script>
+</body>
+</html>
