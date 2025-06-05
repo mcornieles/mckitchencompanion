@@ -8,46 +8,46 @@
 </head>
 <body class="bmr-page">
   <div class="overlay">
-    <h1 class="main-title">Cuisinart Bread Maker Recipes</h1>
 
-    <div class="dropdown-container">
-      <select id="dropdownGroup" disabled>
-        <option value="">Select Group</option>
-      </select>
-
-      <select id="dropdownName" disabled>
-        <option value="">Select Recipe Name</option>
-      </select>
-
-      <select id="dropdownSize" disabled>
-        <option value="">Select Size</option>
-      </select>
+    <!-- Sticky Block (TITULO + DROPDOWNS) -->
+    <div class="sticky-top">
+      <h1 class="main-title">Cuisinart Bread Maker Recipes</h1>
+      <div class="dropdown-container">
+        <select id="dropdownGroup" disabled>
+          <option value="">Select Group</option>
+        </select>
+        <select id="dropdownName" disabled>
+          <option value="">Select Recipe Name</option>
+        </select>
+        <select id="dropdownSize" disabled>
+          <option value="">Select Size</option>
+        </select>
+      </div>
     </div>
 
     <div id="recipeContainer" class="recipe-display hidden">
       <h2 id="recipeTitle"></h2>
-      <table id="recipeTable">
-        <thead>
-          <tr>
-            <th>Ingredient</th>
-            <th>Detail</th>
-            <th>Amount</th>
-            <th>Unit</th>
-            <th>Grams</th>
-          </tr>
-        </thead>
-        <tbody id="recipeBody">
-        </tbody>
-      </table>
-
+      <button id="zoomRecipeBtn" class="zoom-btn">Zoom in Recipe</button>
+      <div class="table-scroll" id="tableScroll">
+        <table id="recipeTable">
+          <thead>
+            <tr>
+              <th>Ingredient</th>
+              <th>Detail</th>
+              <th>Amount</th>
+              <th>Unit</th>
+              <th>Grams</th>
+            </tr>
+          </thead>
+          <tbody id="recipeBody"></tbody>
+        </table>
+      </div>
       <button id="toggleInstructionsButton">Show Instructions</button>
       <div id="instructionBox" class="hidden"></div>
     </div>
-
     <a href="../../index.html" class="back-link">← Back to Main Menu</a>
-
   </div>
- <script src="assets/papaparse.min.js"></script>
-<script src="assets/main.js"></script>
+  <script src="assets/papaparse.min.js"></script>
+  <script src="assets/main.js"></script>
 </body>
 </html>
